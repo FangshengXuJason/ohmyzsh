@@ -6,3 +6,5 @@ cache/
 log/
 *.swp
 .DS_Store
+
+*.log # fangsheng: I don't think we need .log files
